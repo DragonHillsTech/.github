@@ -1,6 +1,8 @@
 # DragonHills Technology
 Embedded vision and edge computing
 
+A group of enthusiasts with many years of hands-on experience in Embedded Linux and a strong background in computer vision. What unites us is the passion for making electronic products smarter and more capable by bringing AI and automation directly into devices.
+
 <!--
 
 **Here are some ideas to get you started:**
